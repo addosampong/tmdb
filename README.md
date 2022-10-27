@@ -120,4 +120,4 @@ This section starts with the exploration and analysis of the dataset. This will 
 
 The TMDb dataset has some interesting characteristics about movies released from 1960 to 2015. These characteristics have been explored, analysed and visualized in the accompanying `Jupyter Notebook`. The analysis and visualizations give some insights to answer the questions posed before the start of the data analysis process.
 
-The actual exploration and analysis of the dataset together with the conclusions can be found in the accompanying `Jupyter Notebook`
+The actual exploration and analysis of the dataset together with the conclusions can be found in the accompanying `Jupyter Notebook`. Kindly open the `Investigate_a_Dataset.ipynb` file to see the actual data exploratory analysis.
