@@ -1,11 +1,12 @@
 # Udacity Project
+
 ## Investigate a Dataset - The Moive Database
 
 ### Table of Contents
 
-[Introduction](#intro)
-[Data Wrangling](#wrangling)
-[Exploratory Data Analysis](#eda)
+[Introduction](#intro)  
+[Data Wrangling](#wrangling)  
+[Exploratory Data Analysis](#eda)  
 [Conclusions](#conclusions)
 
 <a id="intro"></a>
