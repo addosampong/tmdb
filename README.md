@@ -11,12 +11,16 @@ The TMDb dataset has some interesting characteristics about movies released from
 
 The actual exploration analysis and visualization of the dataset together with the conclusions can be found in the accompanying `Jupyter Notebook`. To preview the notebook, open the `Investigate_a_Dataset.ipynb` file to in a `Jupyter Notebook`. This file also contains all the narratives, including the conclusions, of the project. The `tmdb-movies.csv` file contains the actual dataset which was explored and analysed.
 
-## Features
+## Activities Done
 
-- Data Gathering
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualizations (mostly univariate data visualizations)
+- [ ] Gathering data
+- [x] Assessing data
+- [x] Cleaning data
+- [ ] Storing data
+- [x] Analyzing, and visualizing data
+- [x] Reporting
+  - Data wrangling efforts
+  - Data analyses and visualizations
 
 ## Futher Works
 
