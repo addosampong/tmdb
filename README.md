@@ -9,7 +9,7 @@ It is a simple and basic data analytics project aimed at exploring and analysing
 
 The TMDb dataset has some interesting characteristics about movies released from 1960 to 2015.
 
-The actual exploration analysis and visualization of the dataset together with the conclusions can be found in the accompanying `Jupyter Notebook`. To preview the notebook, open the `Investigate_a_Dataset.ipynb` file to in a `Jupyter Notebook`. This file also contains all the narratives, including the conclusions, of the project. The `tmdb-movies.csv` file contains the actual dataset which was explored and analysed.
+The actual exploratory analyses and visualizations of the dataset together with the conclusions can be found in the accompanying `Investigate_a_Dataset.ipynb` file. To preview tthe file in a `Jupyter Notebook`. This file also contains all the narratives including the conclusions of the project. The `tmdb-movies.csv` file contains the actual dataset which was explored and analysed.
 
 ## Activities Done
 
