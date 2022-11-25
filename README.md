@@ -1,6 +1,4 @@
-# Udacity Data Analytics Nanodegree Project 1
-
-## Investigate a Dataset (TMDb)
+# Investigate a Dataset (TMDb)
 
 This exploratory data analysis project is one of the projects in the Udacity Data Analytics Nanodegree course.
 It is a simple and basic data analytics project aimed at exploring and analysing The Movie Database (TMDb) dataset to gain some insights into the dataset, and also present those insights graphically.
